@@ -1,5 +1,6 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { Link, FormattedMessage } from "gatsby-plugin-intl";
+
 
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'

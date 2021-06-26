@@ -1,0 +1,104 @@
+{
+  "title": "Meftah App",
+  "description": "Kick off your next, great Gatsby project with this default-starter-intl. This barebones starter ships with the main Gatsby configuration files you might need.",
+  "author": "@meftahApp",
+
+  "slogan": "Invoicing and bookkeeping like never",
+  "slogan_sub": "The best way and easiest accounting program to manage bills and expenses",
+
+  "call_to_action_1": "Start 14 Days Free Trial",
+  "call_to_action_sub": "No credit card required",
+
+  "feature_title_1": "Simple Invoicing",
+  "feature_1_desc": "No experience is required. Do it all by yourself.",
+  "feature_title_2": "We speak your Language ",
+  "feature_2_desc": "Meftah by default speaks two languages. Arabic & English.",
+  "feature_title_3": "Tax Payments",
+  "feature_3_desc": "Tax is not a problem anymore, we will do all the calculations.",
+  "feature_title_4": "Super Support",
+  "feature_4_desc": "Responsive communication for help and support.",
+  "feature_title_5": "Rich Documentation",
+  "feature_5_desc": "All what you need to know about using Meftah.",
+  "feature_title_6": "Lifetime Updates",
+  "feature_6_desc": "Don't worry about updates. It will never expire.",
+
+  "content_1_header": "Simple accounting program that works with you step by step",
+  "content_1_desc": "You can clearly understand and manage your income and expenses. Track all your bills and get a complete visualization of your financial situation.",
+  "content_2_header": "Variety of Templates",
+  "content_2_desc": "An invoice is not just a regular number sheet, it is also a letter that represents your organization or project. The appearance and output of the invoice is important to reflect a professional image of your company, as well as in order to display billing data clearly, quickly and without any confusion from your customers.",
+
+  "PricingAndPlans": "Pricing & Plans",
+  "Create_your_account": "Create your account and start using Meftah",
+  "Yearly": "Yearly",
+  "Monthly": "Monthly",
+  "Save25": "Save 25% ",
+
+  "Free": "Free",
+  "BasicPlan": "Basic Plan",
+  "mo": "monthly",
+  "plan_free_feature_1": "Send upto 50 invoices to upto 5 clients",
+  "plan_free_feature_2": "Track upto 200 expenses",
+  "plan_free_feature_3": "Send upto 50 unlimited estimates",
+  "plan_free_feature_4": "Track sales tax & see reports",
+  "plan_free_feature_5": "Design upto 5 invoice templates",
+  "plan_free_feature_6": "Watch how your business works on your reports dashboard",
+  "plan_free_feature_7": "Lifetime updates",
+
+  "plan_paid_feature_1": "Send unlimited invoices",
+  "plan_paid_feature_2": "Track unlimited expenses",
+  "plan_paid_feature_3": "Send unlimited estimates",
+  "plan_paid_feature_4": "Track sales tax & see reports",
+  "plan_paid_feature_5": "Design unlimited invoice templates",
+  "plan_paid_feature_6": "Watch how your business works on your reports dashboard",
+  "plan_paid_feature_7": "Lifetime updates & Support",
+  "plan_paid_feature_8": "Get paid with credit cards and bank transfers",
+  "plan_paid_feature_9": "Access anywhere on iOS and Android",
+  "plan_paid_feature_10": "Manage multiple businesses in one account",
+
+  "CTA": "Everything you need to run your business in a simple and practical way",
+  "AllRightsReserved": "&copy; 2021 Meftah, All Rights Reserved",
+
+  "faq_title_1": "How to create my online account?",
+  "faq_answer_1": "The inscription on the software happens quickly and easily. The slogan is simple, just go to the Home Page and enter the email address and user name. We advise you anyway:  If you are a business, to the email address with which you deal with your customers.  If you’re a freelancer, to the email address that you use to work and send your bills.  The username may be your own or that of society and instead of email, you can change it whenever you want",
+
+  "faq_title_2": "How to access my account?  ",
+  "faq_answer_2": "When you first login, you access the application without entering a password. But once disconnected, to enter again should:  Log on to the email address provided at the beginning.  Search the mail Welcome hello@meftah.app. If you can not find it, check in the Junk or Spam.  Click on the link sent in the mail  If the link does not work, copy and paste in your browser directly.  Create your password, it must be personal and confidential. The never disclose to a third party.",
+
+  "faq_title_3": "How do I change my contact details and personal information?",
+  "faq_answer_3": "Once your registration is complete, you can change your details by logging into the application:  Click on the top right “welcome”.  Enter your information.  Register at the top right.",
+
+  "faq_title_4": "How to put my logo, footer and conditions on my bill?",
+  "faq_answer_4": "After your registration you can add your logo: Click “Settings” then “System Settings”. Head to the “General” tab.  Right on the “logo invoice” option you can add or remove. The logo should have a maximum size of 2 MB and must be in GIF, JPEG, PNG format.",
+
+  "about": "About Meftah",
+  "jobs": "Jobs",
+  "blogs": "Blogs",
+  "copywrite": "Meftah, All Rights Reserved",
+
+  "ContactUS": "Contact US",
+  "WereHereToHelp": "We’re here to help",
+  "WereHereToHelpNotes": "To provide assistance as quickly and efficiently as we can, we connect with our customers through live chat rather than by phone.",
+  "CallUs": "Call us",
+  "EmailUs": "Email us",
+  "aboutSummary": "At Meftah, we believe small businesses owners can  manage thier finaical transaction bu themselves in an easier way.",
+  "OurMission": "Our mission is to make your life easier",
+  "OurMissionNotes": "We aspire to create a very simple smart platform  where small business owners can register, track and manage their fainanical data step by step. we aim to be the simplest Accounting soulation inorder to contrubuite in enterpenurers success.",
+  "WantToJoin": "Want to join?",
+  "WantToJoinNotes": "Are you interested to join our team? Check out our job openings and apply on your suitable role.",
+  "CheckJobOpenings": "Check Job Openings",
+  "OpenRoles": "Open Roles",
+  "blogsSubtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+  "hello": "Hi people",
+  "welcome": "Welcome to your new Gatsby site.",
+  "title_page2": "Page two",
+  "hello_page2": "Hi from the second page",
+  "go_page2": "Go to page 2",
+  "build": "Now go build something great.",
+  "welcome_page2": "Welcome to page 2",
+  "go_back": "Go back to the homepage",
+  "notfound": {
+    "header": "NOT FOUND",
+    "description": "You just hit a route that doesn't exist... the sadness."
+  }
+}

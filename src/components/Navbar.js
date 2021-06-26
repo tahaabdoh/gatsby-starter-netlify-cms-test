@@ -1,9 +1,11 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { Link, FormattedMessage } from "gatsby-plugin-intl"
+
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 
 const Navbar = class extends React.Component {
+  
   constructor(props) {
     super(props)
     this.state = {
@@ -77,6 +79,9 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
+            
+            <FormattedMessage id="title" />
+
               <a
                 className="navbar-item"
                 href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
